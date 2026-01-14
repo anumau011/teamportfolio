@@ -45,8 +45,7 @@ export default function TechPortfolio() {
       {/* 1. HERO SECTION */}
       <section className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden">
         {/* Abstract Background Glow */}
-       
-        
+
         <div className="container mx-auto px-6 relative z-10 text-center">
           <motion.div 
             initial="hidden" 
